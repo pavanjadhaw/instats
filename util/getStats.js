@@ -1,6 +1,12 @@
 'use strict';
 const getMeta = require('../lib/get-meta');
 
+/**
+ * Function to get stats for given instagram username
+ *
+ * @param {String} username of user to get stats of
+ * @returns {Object} mapped with stats
+ */
 const getStats = async username => {
   try {
     const url = 'https://www.instagram.com/' + username;
