@@ -31,6 +31,12 @@ GET [`https://instats.now.sh/username`](https://instats.now.sh/_pavanjadhaw)
 
 &nbsp;
 
+#### acknowledgements
+
+thanks to [icons8](icons8.com) for hero image
+
+&nbsp;
+
 #### license
 
 MIT © [pavanjadhaw](https://github.com/pavanjadhaw)
