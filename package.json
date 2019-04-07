@@ -1,0 +1,27 @@
+{
+  "name": "instats",
+  "version": "0.0.1",
+  "description": "instagram stats api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instagram",
+    "stats",
+    "nodejs",
+    "scraper"
+  ],
+  "author": "Pavan Jadhaw <@pavanjadhaw> (https://pavanjadhaw.me)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "html-metadata": "^1.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
+  }
+}
