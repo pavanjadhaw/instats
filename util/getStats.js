@@ -3,7 +3,8 @@ const getMeta = require('../lib/get-meta');
 
 const getStats = async username => {
   try {
-    const metadata = await getMeta(username);
+    const url = 'https://www.instagram.com/' + username;
+    const metadata = await getMeta(url);
 
     if (metadata) {
       const info = metadata.general.description.split(',');
