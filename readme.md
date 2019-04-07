@@ -25,12 +25,6 @@ GET [`https://instats.now.sh/username`](https://instats.now.sh/_pavanjadhaw)
 
 &nbsp;
 
-#### like it?
-
-:star: this repo
-
-&nbsp;
-
 #### acknowledgements
 
 thanks to [icons8](icons8.com) for hero image
