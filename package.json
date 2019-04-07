@@ -4,7 +4,7 @@
   "description": "instagram stats api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [
     "instagram",
@@ -23,5 +23,16 @@
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-prettier": "^3.0.1",
     "prettier": "^1.16.4"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavanjadhaw/instats.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pavanjadhaw/instats/issues"
+  },
+  "homepage": "https://github.com/pavanjadhaw/instats#readme"
 }
