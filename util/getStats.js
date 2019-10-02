@@ -9,7 +9,7 @@ const getMeta = require('../lib/get-meta');
  */
 const getStats = async username => {
   try {
-    const url = 'https://www.instagram.com/' + username;
+    const url = `https://www.instagram.com/${username}`;
     const metadata = await getMeta(url);
 
     if (metadata) {
