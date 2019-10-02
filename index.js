@@ -7,7 +7,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 app.get('/:username', async (req, res) => {
-  const username = req.params.username;
+  const { username } = req.params;
   const stats = await getStats(username);
 
   if (!stats) {
