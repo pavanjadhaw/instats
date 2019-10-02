@@ -27,7 +27,7 @@ GET [`https://instats.now.sh/username`](https://instats.now.sh/_pavanjadhaw)
 
 #### acknowledgements
 
-thanks to [icons8](icons8.com) for hero image
+thanks to [icons8](https://icons8.com) for hero image
 
 &nbsp;
 
