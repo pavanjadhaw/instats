@@ -15,7 +15,7 @@
   "author": "Pavan Jadhaw <@pavanjadhaw> (https://pavanjadhaw.me)",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "html-metadata": "^1.7.0",
     "nodemon": "^1.19.3"
   },
